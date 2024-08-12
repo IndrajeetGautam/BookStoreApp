@@ -26,7 +26,7 @@ export default function Banner() {
             <input type="text" className="grow" placeholder="Email" />
           </label>
         </div>
-        <button className="mt-5 btn btn-secondary">Secondary</button>
+        <button className="mt-5 btn btn-secondary">Get Started!</button>
 
       </div>
       <div className=" order-1 w-full md:w-1/2">
