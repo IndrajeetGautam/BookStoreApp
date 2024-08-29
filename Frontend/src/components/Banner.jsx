@@ -7,7 +7,7 @@ export default function Banner() {
       <div className=" order-2 md:order-1 w-full md:w-1/2 mt-30 md:mt-10">
         <div className="space-y-12">
           <h1 className="text-4xl font-bold mt-10">
-            Hello, welcome here to learn something <span className="text-pink-500">new everyday!!!</span>
+            Hello, welcome here to learn something <span className="text-red-700">new everyday!!!</span>
           </h1>
           <p className="text-xl ">
             Books are essential for expanding knowledge, fostering imagination, and enhancing critical thinking. They provide insights into diverse cultures and perspectives, promoting empathy and understanding.
@@ -32,7 +32,7 @@ export default function Banner() {
       <div className=" order-1 w-full md:w-1/2">
         <img
           src={banner}
-          className="md:w-[550px] md:h-[460px] md:ml-12"
+          className="md:w-[500px] md:h-[450px] md:mt-10 md:ml-12"
           alt=""
         />
       </div>

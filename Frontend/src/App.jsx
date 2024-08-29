@@ -3,7 +3,7 @@ import Home  from './home/Home'
 import { Navigate, Route, Routes } from "react-router-dom"
 import Courses from './courses/Courses'
 import Signup from './components/Signup';
-import Contact from './contact/Contact';
+import Contact from './contact/Contacts';
 import  { Toaster } from 'react-hot-toast'; 
 import { useAuth } from './context/AuthProvider';
 
